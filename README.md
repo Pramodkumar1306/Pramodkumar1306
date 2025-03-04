@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pramod kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **React Js, Hybernet**
+- 🌱 I’m currently learning **React Js, Ndejs and Express Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
